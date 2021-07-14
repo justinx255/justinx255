@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://github.com/sijin-raj/sijin-raj/blob/main/images/profile.png" align="center" height=70% width=60%/><hr width=50% size=1% Align="center"></div>
 <h3 align="center">You are visitor</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/sijin-raj/count.svg" alt="vistor count" height="50" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/justinx255/count.svg" alt="vistor count" height="50" /></p>
 <hr>
 ### Few things about me 
 
