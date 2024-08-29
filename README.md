@@ -34,7 +34,7 @@
 <p align="center"> <a href="
 https://github.com/ryo-ma/github-profile-trophy"><img
 src="
-https://github-profile-trophy.vercel.app/?username=chandruk29&theme=dracula&row=2&column=4&margin-w=15&margin-h=15"
+https://github-profile-trophy.vercel.app/?username=justinx255&theme=dracula&row=2&column=4&margin-w=15&margin-h=15"
 alt="justinx255" /></a> </p>
 
 
